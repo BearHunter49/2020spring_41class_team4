@@ -4,6 +4,11 @@
 ## E-Commer Application : Locally Second-hand Books Platform
 <img src="https://github.com/skkuse/2020spring_41class_team4/blob/master/src/Data/Logo.png" width="90%"></img>
 *****
+
+## Notion
+[Link](https://www.notion.so/bearhunter49/f793db8166f2470a9dcf3fa4b7ee5b1c)
+<br>
+
 ## Team members
 
 - 한채정
